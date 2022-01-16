@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning about **Cybersecurity, Network Engineering, Programming**
 
-- 👨‍💻 All of my projects are available here on GitHub and at [atahankucuk.com](atahankucuk.com)
+- 👨‍💻 All of my projects are available here on GitHub and at [atahankucuk.com](https://www.atahankucuk.com/)
 
 - ⚡ Fun fact **coffee is life**
 
