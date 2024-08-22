@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Atahan Kucuk</h1>
-<h3 align="center">A passionate Cybersecurity and Network Engineering Student</h3>
+<h3 align="center">Cybersecurity and Network Engineer</h3>
 
 - 🌱 I’m currently learning about **Cybersecurity, Network Engineering, Programming**
 
